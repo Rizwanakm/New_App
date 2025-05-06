@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rizwanakm.github.io/New_App",
+  "homepage": "https://Rizwanakm.github.io/New_App/",
  
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
